@@ -1,4 +1,6 @@
-notebooks/scratch
 .env
 data
 venv
+**/.ipynb_checkpoints/
+.virtual_documents/
+**/scratch/
