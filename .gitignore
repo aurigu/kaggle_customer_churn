@@ -1,1 +1,4 @@
 notebooks/scratch
+.env
+data
+venv
